@@ -2,5 +2,5 @@
   (version 7)
   (lib (name "paige_symbols")(type "KiCad")(uri "${KIPRJMOD}/paige_symbols.kicad_sym")(options "")(descr ""))
   (lib (name "teensy")(type "Legacy")(uri "${KIPRJMOD}/teensy_library-master/teensy.lib")(options "")(descr ""))
-  (lib (name "FSM_CONNECTOR")(type "Legacy")(uri "/Users/paigeforester/Downloads/KiCAD/2025-07-14_19-23-15.lib")(options "")(descr ""))
+  (lib (name "FSM")(type "KiCad")(uri "${KIPRJMOD}/2025-07-16_19-39-45.kicad_sym")(options "")(descr ""))
 )
