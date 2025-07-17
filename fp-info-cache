@@ -1,4 +1,4 @@
-25845564077955329
+25847316858037453
 3220-10-0300-00
 CNC_3220-10-0300-00
 
@@ -57147,6 +57147,13 @@ ceramic
 0
 3
 3
+DIP THING
+CONN8_1-2199298-2_TEC
+
+1-2199298-2 
+0
+8
+8
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
