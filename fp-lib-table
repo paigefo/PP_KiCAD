@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "teensyFP")(type "KiCad")(uri "${KIPRJMOD}/teensy.pretty")(options "")(descr "KiCad"))
   (lib (name "FSM")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty")(options "")(descr ""))
+  (lib (name "PCM_JLCPCB")(type "KiCad")(uri "${KIPRJMOD}/JLCPCB.pretty")(options "")(descr ""))
 )
