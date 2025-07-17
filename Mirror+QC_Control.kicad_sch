@@ -8483,7 +8483,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 220.98 152.4 0)
 			(effects
 				(font
@@ -8502,6 +8502,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 215.9 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2906763"
 			(at 215.9 152.4 0)
 			(effects
 				(font
@@ -8718,6 +8727,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 64.77 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C965815"
 			(at 64.77 30.48 0)
 			(effects
 				(font
@@ -8960,7 +8978,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 120.65 139.7 0)
 			(effects
 				(font
@@ -8979,6 +8997,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 125.73 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2906763"
 			(at 125.73 139.7 0)
 			(effects
 				(font
@@ -9265,6 +9292,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5443561"
+			(at 50.8 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b3d02346-b4a0-47c0-8fe8-07a8493f2d92")
 		)
@@ -9389,7 +9425,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 31.75 110.49 0)
 			(effects
 				(font
@@ -9408,6 +9444,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 36.83 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2906763"
 			(at 36.83 110.49 0)
 			(effects
 				(font
@@ -10688,6 +10733,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C431732"
+			(at 66.04 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "369fbcb4-1419-4a3a-af80-5cd788477fc7")
 		)
@@ -11123,7 +11177,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 226.06 154.94 0)
 			(effects
 				(font
@@ -11142,6 +11196,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 220.98 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2906763"
 			(at 220.98 154.94 0)
 			(effects
 				(font
@@ -11281,6 +11344,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17617"
+			(at 21.59 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4bd3f933-ac83-446e-baac-9cbdaf9b74b7")
 		)
@@ -11343,6 +11415,15 @@
 		)
 		(property "Description" "2.048V Precision Micropower Shunt Voltage Reference, SOT-23"
 			(at 50.8 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C431732"
+			(at 50.8 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11927,7 +12008,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 176.53 35.56 0)
 			(effects
 				(font
@@ -11946,6 +12027,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 171.45 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2906763"
 			(at 171.45 35.56 0)
 			(effects
 				(font
@@ -12013,6 +12103,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 38.1 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2915642"
 			(at 38.1 95.25 0)
 			(effects
 				(font
@@ -12572,7 +12671,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 234.95 143.51 0)
 			(effects
 				(font
@@ -12591,6 +12690,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 229.87 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2906763"
 			(at 229.87 143.51 0)
 			(effects
 				(font
@@ -13436,7 +13544,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 232.41 149.86 0)
 			(effects
 				(font
@@ -13455,6 +13563,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 227.33 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2906763"
 			(at 227.33 149.86 0)
 			(effects
 				(font
@@ -14083,7 +14200,7 @@
 				)
 			)
 		)
-		(property "Value" "1300"
+		(property "Value" "1200"
 			(at 57.15 26.67 90)
 			(effects
 				(font
@@ -14111,6 +14228,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 57.15 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C114526"
+			(at 57.15 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14890,6 +15016,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C7501289 "
+			(at 234.95 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "484c38bd-d98a-4e98-bbeb-d7e76f07e87f")
 		)
@@ -15214,7 +15349,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 175.26 137.16 0)
 			(effects
 				(font
@@ -15233,6 +15368,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 180.34 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2906763"
 			(at 180.34 137.16 0)
 			(effects
 				(font
@@ -15575,7 +15719,7 @@
 				)
 			)
 		)
-		(property "Value" "1300"
+		(property "Value" "1200"
 			(at 27.94 25.4 90)
 			(effects
 				(font
@@ -15603,6 +15747,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 27.94 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C114526"
+			(at 27.94 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16169,6 +16322,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C965815"
+			(at 29.21 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b828982c-9a90-4e88-8931-e7e1e2b91e85")
 		)
@@ -16343,7 +16505,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 27.94 111.76 0)
 			(effects
 				(font
@@ -16362,6 +16524,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 33.02 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2906763"
 			(at 33.02 111.76 0)
 			(effects
 				(font
@@ -17523,6 +17694,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C965815"
+			(at 35.56 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b828982c-9a90-4e88-8931-e7e1e2b91e86")
 		)
@@ -17762,7 +17942,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 118.11 86.36 0)
 			(effects
 				(font
@@ -17781,6 +17961,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 123.19 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2906763"
 			(at 123.19 86.36 0)
 			(effects
 				(font
@@ -17949,7 +18138,7 @@
 		(at 222.25 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18728,7 +18917,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 118.11 38.1 0)
 			(effects
 				(font
@@ -18747,6 +18936,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 123.19 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2906763"
 			(at 123.19 38.1 0)
 			(effects
 				(font
@@ -18794,7 +18992,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 158.75 83.82 0)
 			(effects
 				(font
@@ -18813,6 +19011,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 163.83 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2906763"
 			(at 163.83 83.82 0)
 			(effects
 				(font
@@ -18860,7 +19067,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded"
+		(property "Footprint" "TestPoint:TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded"
 			(at 24.13 114.3 0)
 			(effects
 				(font
@@ -18879,6 +19086,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 29.21 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2906763"
 			(at 29.21 114.3 0)
 			(effects
 				(font
