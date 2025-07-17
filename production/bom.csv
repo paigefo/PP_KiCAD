@@ -1,0 +1,33 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",0603,2,12nF,C107074
+"C10, C11, C12, C13, C14, C19, C4, C5, C6, C7, C8, C9",C_0603,12,100nF,C14663
+"C15, C20, C21",C_0603,3,2.2nF,C1604
+C16,C_0603,1,6.8nF,C1631
+"D1, D2, D3",0805,3,5962-XL-2012UGCTR-ND,
+GND1,TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded,1,TP_GND1,
+GND2,TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded,1,TP_GND2,
+GND3,TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded,1,TP_GND3,
+GND4,TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded,1,TP_GND4,
+J2,"TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal",1,Screw_Terminal_01x04,
+J3,"TerminalBlock_Phoenix_MKDS-1,5-6-5.08_1x06_P5.08mm_Horizontal",1,Screw_Terminal_01x06,
+J4,CONN_3220-10-0100-00_CNC,1,FSM DRIVER,
+"R1, R10, R11, R12, R15, R16, R5, R6, R7",0603,9,100k,C14675
+"R13, R14",0805,2,1300,
+R17,0805,1,300,
+"R18, R20",0603,2,750,C2907066
+"R19, R21",0603,2,10k,C2930027
+"R2, R9",0603,2,16k,C2907107
+"R3, R8",0603,2,20k,C2907011
+R4,0603,1,33k,C2907028
+SUMSTAGE1,TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded,1,TP_sumstage1,
+SUMSTAGE2,TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded,1,TP_sumstage2,
+TP_DIN1,TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded,1,TP_DIN,
+TP_EN1,TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded,1,TP_EN,
+TP_SYNC1,TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded,1,TP_SYNC,
+"U1, U10, U11, U3, U5, U6",DIP-8_W7.62mm,6,LT1012,C305904
+"U2, U8",SOT-23,2,LM4040DBZ-2.0,
+U7,Teensy40,1,Teensy4.0,
+XSTAGE1,TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded,1,TP_xstage1,
+XSTAGE2,TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded,1,TP_xstage2,
+YSTAGE1,TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded,1,TP_ystage1,
+YSTAGE2,TestPoint_Loop_D3.50mm_Drill1.4mm_Beaded,1,TP_ystage2,
