@@ -208,7 +208,7 @@
 		(uuid "40d4129b-e1e5-4fac-ac16-c24e04b6a361")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 2.54 -0.635 0)
+		(at -3 -4 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "4d290111-351d-4150-8936-1640aaf83fb3")
@@ -300,4 +300,15 @@
 		(uuid "a6bec691-30d3-4b70-a239-28a112296c46")
 	)
 	(embedded_fonts no)
+	(model "/Users/paigeforester/Downloads/3220-10-0300-00/3220-10-0300-00.step"
+		(offset
+			(xyz 2 1 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

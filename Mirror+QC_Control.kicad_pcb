@@ -11632,7 +11632,7 @@
 		(at 132.23 73.5 -90)
 		(tags "3220-10-0100-00 ")
 		(property "Reference" "J4"
-			(at 8.5 3.23 0)
+			(at 10 -0.27 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "232ed062-4473-4954-9549-8ba869066566")
@@ -11644,9 +11644,9 @@
 			)
 		)
 		(property "Value" "FSM DRIVER"
-			(at 10.5 -0.635 0)
+			(at 2.54 -0.635 270)
 			(unlocked yes)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "5c35c105-8d96-4681-b069-0740abb57521")
 			(effects
 				(font
@@ -11679,19 +11679,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C7501289 "
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0a655475-281f-4d4e-86be-00a1620f5f6d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "CONN_3220-10-0100-00_CNC")
 		(path "/8e6b4bcb-fcee-4239-b704-969859b97f2c")
 		(sheetname "/")
@@ -11706,7 +11693,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "908a19c4-cd5f-4588-b7f6-5d5a36415926")
+			(uuid "183e353c-7f9f-4e37-a22c-008714bc02d2")
 		)
 		(fp_line
 			(start 9.271 1.9939)
@@ -11716,7 +11703,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7981d8f3-b70d-473d-9e00-20d51d0cf992")
+			(uuid "6ac0b0e4-1d1f-423f-aa19-896245c50637")
 		)
 		(fp_line
 			(start -4.191 -3.2639)
@@ -11726,7 +11713,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d601afef-9551-405c-a885-181b45f27e02")
+			(uuid "efe88339-47f8-4890-a891-15206765f18d")
 		)
 		(fp_line
 			(start 9.271 -3.2639)
@@ -11736,7 +11723,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bc9d5c9d-66d8-446a-959d-ee9d00b964d5")
+			(uuid "ecd5c457-f40b-47f6-8800-679b3678e090")
 		)
 		(fp_circle
 			(center -4.826 0)
@@ -11747,7 +11734,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "1f66aaa2-b155-4285-9265-1519beb7309c")
+			(uuid "0deb0621-97f2-4172-a40c-df1e2fa2bc9f")
 		)
 		(fp_circle
 			(center -4.826 0)
@@ -11758,7 +11745,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "b20dcdf2-d9aa-4cdf-9dc8-b6f6cada4b70")
+			(uuid "76cbcbfe-1f82-4ea0-8620-c87d37067437")
 		)
 		(fp_line
 			(start -4.318 2.1209)
@@ -11768,7 +11755,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c418bace-e258-4f27-b1f6-57780c7808cd")
+			(uuid "d826da62-8299-47c9-b840-bc5536cff26e")
 		)
 		(fp_line
 			(start 9.398 2.1209)
@@ -11778,7 +11765,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7bdea89b-c2e5-4049-bcce-289ed261a5c7")
+			(uuid "15000b55-7409-469f-942d-8b44c9a6123d")
 		)
 		(fp_line
 			(start -4.318 -3.3909)
@@ -11788,7 +11775,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "917498ba-db87-4c92-ad30-fccc7104c6a5")
+			(uuid "df831636-7d4e-4c9d-87d9-7ba87adc9fd7")
 		)
 		(fp_line
 			(start 9.398 -3.3909)
@@ -11798,7 +11785,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f77f9fc5-ddbd-425c-899c-02fc0b5f9bb3")
+			(uuid "ef06c891-868a-43b2-bd38-cb8000626bf8")
 		)
 		(fp_line
 			(start -4.064 1.8669)
@@ -11808,7 +11795,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b2325fe3-eb47-4c33-bd87-f8a01558df30")
+			(uuid "9bd8448e-7b3a-40d0-9de3-94df2c9f143c")
 		)
 		(fp_line
 			(start 9.144 1.8669)
@@ -11818,7 +11805,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "ab5ccb1d-c132-4509-9b1d-e6aa2dafa7b7")
+			(uuid "5b25fcf1-8acf-44b7-9aed-2f71ebcdfa12")
 		)
 		(fp_line
 			(start -4.064 -3.1369)
@@ -11828,7 +11815,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e888259c-ff78-4764-ac7d-47f94b9ad9b7")
+			(uuid "a6bc3c07-39d3-4b50-acf0-c6f4bf9c0bf5")
 		)
 		(fp_line
 			(start 9.144 -3.1369)
@@ -11838,7 +11825,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "63808159-2b23-4592-b205-cd78d5db321c")
+			(uuid "c42155b8-7a13-476e-a827-9c5a07e046b0")
 		)
 		(fp_circle
 			(center 0 1.905)
@@ -11849,7 +11836,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "a26ff1b3-5cf1-466c-8a1b-ee4fa1976c5d")
+			(uuid "19c51bd3-eb68-42a0-8763-f4d2e0e226ae")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.54 -0.635 270)
@@ -11974,6 +11961,17 @@
 			(uuid "047bbe21-caee-49e4-b7c8-88f7319bfd9e")
 		)
 		(embedded_fonts no)
+		(model "/Users/paigeforester/Downloads/3220-10-0300-00/3220-10-0300-00.step"
+			(offset
+				(xyz 2 1 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "DIP THING:CONN8_1-2199298-2_TEC"
 		(layer "F.Cu")
