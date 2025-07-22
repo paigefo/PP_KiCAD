@@ -19,6 +19,7 @@ R17,0805,1,300,C17617
 "R2, R9",0603,2,16k,C2907107
 "R3, R8",0603,2,20k,C2907011
 R4,0603,1,33k,C2907028
+SUM1,TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,TP_SUM,C2906763
 SUMSTAGE1,TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,TP_sumstage1,C2906763
 SUMSTAGE2,TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,TP_sumstage2,C2906763
 TP_DIN1,TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,TP_DIN,C2906763
@@ -26,7 +27,9 @@ TP_EN1,TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,TP_EN,C2906763
 TP_SYNC1,TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,TP_SYNC,C2906763
 "U1, U10, U11, U3, U5, U6",CONN8_1-2199298-2_TEC,6,LT1012,C305904
 "U2, U8",SOT-23,2,LM4040DBZ-2.0,C431732
+X1,TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,TP_X,C2906763
 XSTAGE1,TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,TP_xstage1,C2906763
 XSTAGE2,TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,TP_xstage2,C2906763
+Y1,TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,TP_Y,C2906763
 YSTAGE1,TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,TP_ystage1,C2906763
 YSTAGE2,TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded,1,TP_ystage2,C2906763

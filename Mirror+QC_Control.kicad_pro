@@ -525,7 +525,7 @@
       "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Mirror+QC_Control.step",
       "svg": "",
       "vrml": ""
     },
