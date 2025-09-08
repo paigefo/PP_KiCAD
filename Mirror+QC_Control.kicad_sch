@@ -20116,6 +20116,58 @@
 			)
 		)
 	)
+	(sheet
+		(at 33.02 160.02)
+		(size 21.59 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b299f188-5916-44b6-bc98-534c1205c5cc")
+		(property "Sheetname" "Opamps"
+			(at 33.02 159.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "opamps.kicad_sch"
+			(at 33.02 174.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Ystage_2" input
+			(at 33.02 165.1 180)
+			(uuid "09a1dc81-7f22-4621-94fe-45e8e1adaa42")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Mirror+QC_Control"
+				(path "/55210a8f-c262-436d-8f74-777787918746"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
