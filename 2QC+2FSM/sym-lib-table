@@ -23,4 +23,5 @@
   (lib (name "JLCPCB-Transistors")(type "KiCad")(uri "/Users/paigeforester/Documents/Mirror+QC_Control/JLCPCB_library/JLCPCB-Transistors.kicad_sym")(options "")(descr ""))
   (lib (name "JLCPCB-Variable-Resistors")(type "KiCad")(uri "/Users/paigeforester/Documents/Mirror+QC_Control/JLCPCB_library/JLCPCB-Variable-Resistors.kicad_sym")(options "")(descr ""))
   (lib (name "2025-07-17_18-47-32")(type "KiCad")(uri "/Users/paigeforester/Documents/Mirror+QC_Control/DIP thing/2025-07-17_18-47-32.kicad_sym")(options "")(descr ""))
+  (lib (name "2025-07-14_19-23-15")(type "Legacy")(uri "/Users/paigeforester/Downloads/KiCAD 3/2025-07-14_19-23-15.lib")(options "")(descr ""))
 )

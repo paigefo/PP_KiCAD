@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "9aa0e268-1467-4ff0-a83e-9dce0bf0f4ea")
 	(paper "A4")
+	(title_block
+		(title "X,Y,Sum conversion to 0-3.3V")
+		(date "2025-09-09")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:LT1012"
 			(pin_names
@@ -3886,16 +3890,6 @@
 		)
 		(uuid "fdb9f8f4-2abb-41c7-bcb6-0da7118d5538")
 	)
-	(label "sum_stage2"
-		(at 170.18 139.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "18fc427c-e53d-43a8-99c4-60545ab07462")
-	)
 	(label "y_stage1"
 		(at 120.65 88.9 0)
 		(effects
@@ -3905,36 +3899,6 @@
 			(justify left bottom)
 		)
 		(uuid "21c085a5-96b4-42c0-8416-75f5da58799f")
-	)
-	(label "x+"
-		(at 55.88 44.45 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4c56a3cf-b3a1-4b8e-bc5d-11359ae167ac")
-	)
-	(label "y_stage2"
-		(at 157.48 86.36 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "579cb685-7428-4a36-8632-776b155542b2")
-	)
-	(label "x_stage2"
-		(at 158.75 38.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6314ba90-204e-461e-93a0-2a29381685b6")
 	)
 	(label "x_stage1"
 		(at 115.57 40.64 0)
@@ -3946,16 +3910,6 @@
 		)
 		(uuid "718cfddd-a6f9-45d9-921d-f121edcba3d6")
 	)
-	(label "sum"
-		(at 58.42 144.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f53516c3-89ee-4363-b09e-d1973b7dd038")
-	)
 	(label "sum_stage1"
 		(at 120.65 142.24 0)
 		(effects
@@ -3965,16 +3919,6 @@
 			(justify left bottom)
 		)
 		(uuid "f69c9106-aa5c-4d69-9926-011177e52510")
-	)
-	(label "y+"
-		(at 67.31 92.71 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f8fc5b84-4100-4de0-b816-977a30e6b135")
 	)
 	(hierarchical_label "x_out"
 		(shape output)
@@ -7550,76 +7494,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 83.82 33.02 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "58dadf67-3000-440b-80c7-065b620278d7")
-		(property "Reference" "#PWR01"
-			(at 83.82 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 83.82 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 83.82 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 83.82 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 83.82 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dc419f50-eaba-4485-90f5-3b06c9718a7a")
-		)
-		(instances
-			(project "2QC+2FSM"
-				(path "/300135d4-a613-4bb1-9425-decc05476821/20600565-84ba-4a93-a38a-83c9dfd701b3"
-					(reference "#PWR01")
-					(unit 1)
-				)
-				(path "/300135d4-a613-4bb1-9425-decc05476821/8f83d0db-1814-4199-b9bf-27ad6d9898ee"
-					(reference "#PWR063")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "JLCPCB-Capacitors:0603,100nF")
 		(at 151.13 76.2 90)
 		(unit 1)
@@ -9722,6 +9596,76 @@
 				)
 				(path "/300135d4-a613-4bb1-9425-decc05476821/8f83d0db-1814-4199-b9bf-27ad6d9898ee"
 					(reference "QC2.6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 83.82 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8bfad96-bb1a-4023-8926-4cda431dfeb2")
+		(property "Reference" "#PWR01"
+			(at 83.82 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 83.82 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 83.82 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 83.82 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 83.82 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0fd84511-5dfe-42fa-9e84-b12aa16252ad")
+		)
+		(instances
+			(project ""
+				(path "/300135d4-a613-4bb1-9425-decc05476821/20600565-84ba-4a93-a38a-83c9dfd701b3"
+					(reference "#PWR01")
+					(unit 1)
+				)
+				(path "/300135d4-a613-4bb1-9425-decc05476821/8f83d0db-1814-4199-b9bf-27ad6d9898ee"
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
